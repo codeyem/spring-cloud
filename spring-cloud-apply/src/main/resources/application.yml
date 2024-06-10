@@ -1,0 +1,1 @@
+server:  port: 8081mybatis-plus:  type-aliases-package: com.yem.cloud  configuration:    map-underscore-to-camel-case: true

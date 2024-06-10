@@ -1,0 +1,1 @@
+spring:  datasource:    url: jdbc:mysql://101.43.124.181:13306/dev?allowPublicKeyRetrieval=true&character_set_server=utf8mb4&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=UTC    driver-class-name: com.mysql.cj.jdbc.Driver    username: dev    password: dev9526.

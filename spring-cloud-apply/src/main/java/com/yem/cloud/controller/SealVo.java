@@ -1,0 +1,1 @@
+package com.yem.cloud.controller;import lombok.Data;@Datapublic class SealVo {	private String id;	private String name;}
